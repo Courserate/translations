@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-20 13:55+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Translators: Difficulty of the course - 3rd level - the mose difficult
+#. Translators_ru: Сложность курса - 3-ий уровень - Самый сложный
+#: courses/models.py:58
+msgid "Advanced"
+msgstr ""
+
+#. Translators: Difficulty of the course - 2nd level - in the middle
+#: courses/models.py:60
+msgid "Intermediate"
+msgstr ""
+
+#. Translators: Difficulty of the course - 1st level - Easy
+#: courses/models.py:62
+msgid "Easy"
+msgstr ""
+
+#. Translators: Difficulty of the course - Available for all - For all - No background needed
+#: courses/models.py:64
+msgid "For All"
+msgstr ""
+
+#: courses/models.py:68
+msgid "12hrs a week and more"
+msgstr ""
+
+#: courses/models.py:69
+msgid "11hrs a week"
+msgstr ""
+
+#: courses/models.py:70
+msgid "4hrs a week"
+msgstr ""
+
+#: courses/models.py:73
+msgid "Both"
+msgstr ""
+
+#: courses/models.py:74
+msgid "Verified Certificate"
+msgstr ""
+
+#: courses/models.py:75
+msgid "Statement of Accomplishment"
+msgstr ""
+
+#: courses/models.py:76
+msgid "No Certificate"
+msgstr ""
